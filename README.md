@@ -9,7 +9,9 @@ npm i -g https://github.com/sixertoy/xrgb-cli.git
 
 ## Usage
 ```bash
-xrgb \#FFF
+rgb \#FFF
+rgb rgb\(255,0,255\)
+rgb rgba\(255,0,255,1\)
 ```
 
 ## TODO

@@ -4,7 +4,7 @@
   "description": "NodeJS Cli HEX to/and/to RGB Converter :computer: :wrench: :nail_care:",
   "private": true,
   "bin": {
-    "xrgb": "bin/xrgb"
+    "rgb": "bin/rgb"
   },
   "main": "index.js",
   "scripts": {
