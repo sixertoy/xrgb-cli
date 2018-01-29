@@ -1,0 +1,28 @@
+{
+  "name": "xrgb-cli",
+  "version": "0.1.0",
+  "description": "HEX <-> RGB NodeJS Cli",
+  "private": true,
+  "bin": "bin/xrgb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixertoy/xrgb-cli.git"
+  },
+  "author": "Matthieu Lassalvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixertoy/xrgb-cli/issues"
+  },
+  "homepage": "https://github.com/sixertoy/xrgb-cli#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1"
+  }
+}
