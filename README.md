@@ -11,3 +11,9 @@ npm i -g https://github.com/sixertoy/xrgb-cli.git
 ```bash
 xrgb \#FFF
 ```
+
+## TODO
+
+- alpha channel for RGB
+- parse RGB spaces in matches
+- add output colors in console
